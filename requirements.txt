@@ -1,0 +1,6 @@
+opencv-python>=4.8.0
+mediapipe==0.10.14
+protobuf<5,>=4.25.3
+attrs>=23.1.0
+pygame>=2.5.0
+numpy>=1.24.0
